@@ -1,2 +1,1 @@
-Hi Abhishek this is new repository,
-I am going to use revert command
+Hi Abhishek this is new repository
