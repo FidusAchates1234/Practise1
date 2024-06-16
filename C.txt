@@ -1,2 +1,5 @@
 Hi Abhishek this is new repository,
+<<<<<<< HEAD
 here I will add new Java code
+=======
+>>>>>>> 440d7a5138f8ee4464005297769ba7302aae1ffd
